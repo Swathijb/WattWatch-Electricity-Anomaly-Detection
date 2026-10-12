@@ -34,3 +34,14 @@ This project uses the UCI Individual Household Electric Power Consumption datase
 **Download:** https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 
 Download and extract the dataset separately. Upload the dataset through the WattWatch dashboard to analyse household electricity consumption. The raw dataset is not included in this repository.
+
+## Dashboard Preview
+
+### Dashboard Overview
+![WattWatch Dashboard](Screenshots/dashboard_overview.png)
+
+### Anomaly Charts
+![Consumption Timeline and Anomaly Scores](Screenshots/anomaly_charts.png)
+
+### Detection Results
+![Detection Results Table](Screenshots/detection_results.png)
